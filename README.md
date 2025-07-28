@@ -20,6 +20,16 @@ A promotional animation showcasing Claude Code's sub agent team capabilities, in
 
 Built with **Remotion** and **TypeScript**, featuring a beautiful terminal interface with animated typing effects and creative ASCII text faces that bring each agent to life.
 
+<div align="center">
+
+📺 **Want to learn more about Claude Code?** Check out my YouTubbe series:
+
+[![Claude Code Playlist](https://img.shields.io/badge/🎬_Claude_Code_Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLWUH7ke1DYK8uqjXNDBx5Ai29f_bsa6kl)
+
+_Master Claude Code with step-by-step tutorials, tips, and advanced techniques!_
+
+</div>
+
 ## ✨ What This Creates
 
 This project generates a beautiful animated video featuring:
